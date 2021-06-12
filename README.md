@@ -4,7 +4,7 @@ My name is Daniel and I am an developer based in Sweden.
 
 
 
-
+[<img align="left" alt="Visual Studio" width="26px" src="">]
 
 
 <!--
